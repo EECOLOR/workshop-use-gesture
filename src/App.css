@@ -21,3 +21,8 @@
     top: 151px;
   }
 }
+
+.pit {
+  touch-action: none;
+  user-select: none;
+}
